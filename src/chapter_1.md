@@ -9,4 +9,5 @@ Here is the link of my personal notes of the Lie-Algebra course.
 
 
 
-*[CV](https://github.com/taobaozhe-amoy/Personal-documents/blob/43b95c07e6d3258ec3640c27bc5e86551e078da7/CV-Bohao%20Zhang.pdf)*
+*[CV](https://github.com/taobaozhe-amoy/Personal-documents/blob/43b95c07e6d3258ec3640c27bc5e86551e078da7/CV-Bohao%20Zhang.pdf?raw=true)*
+
