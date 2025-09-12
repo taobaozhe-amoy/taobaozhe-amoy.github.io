@@ -1,11 +1,7 @@
-# Chapter 1
-
-Here is my personal definition of trivial:
-I thought that the most interesting ones were happening in my class.
-Well, in every corner of schools in Japan, they can be found.
-In most people's view, they are just trivial things.
-.............
-Wait for gains without pains is not the right way for letting fancy go into your life.
--------------------------------------------*The Melancholy of Haruhi Suzumiya*.
-
-![waiting](https://github.com/taobaozhe-amoy/taobaozhe.github.io/blob/main/books/pictures/waiting.png?raw=true)
+# Personal information
+Hi, my name is Bohao Zhang(张渤昊), currently a undergraduate student in *[SUSTech](https://www.sustech.edu.cn/)*.
+Majoring in Mathematics and Applied Mathematics, I am now interested in Algebra.
+Currently taking Lie-Algebra, Galois theory, real analysis and combinatorics!
+The Lie-Algebra course is taught by Vyacheslav Futorny who is an expert.
+Here is the link of my personal notes of the Lie-Algebra course.
+*[Undergrduate_notes](https://github.com/taobaozhe-amoy/Undergraduate_math_notes/tree/main)*
