@@ -1,3 +1,3 @@
 # Summary
-- [Chapter 1](./chapter_1.md)
-- [Chapter 2](./chapter_2.md)
+- [About](./chapter_1.md)
+- [This or That](./chapter_2.md)
