@@ -12,6 +12,9 @@ Here is the link of my personal notes of the Lie-Algebra course.
 *[CV](https://github.com/taobaozhe-amoy/Personal-documents/blob/43b95c07e6d3258ec3640c27bc5e86551e078da7/CV-Bohao%20Zhang.pdf?raw=true)*
 
 ------------------2026 Spring-----------------------
+
 Transferred into UIUC
 I audited MATH586 under the instruction of Prof.Alex Yong.
 Below are my two scribe notes together with *[Ryoko](https://math.illinois.edu/directory/profile/ryoko2)*
+*[2/18](https://github.com/taobaozhe-amoy/Undergraduate_math_notes/blob/main/pdfs/first%20revised%20version%20of%202.18notes%20(2).pdf?raw=true)*
+*[2.20](https://github.com/taobaozhe-amoy/Undergraduate_math_notes/blob/main/pdfs/shuo%20(2).pdf?raw=true)*
