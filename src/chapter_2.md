@@ -32,6 +32,11 @@ My watched animes:
 *[bangumi list](https://space.bilibili.com/500799994/bangumi)*  (Only parts of all I watched)
 
 
+# Add social/game friends :
+Steam freinds code: 293178307
+
+
+
 Sorry that my hobby is not that healthy like walkout, hiking, piano, basketball, guitar whatever that are not kind of otaku.
 Also sorry that I am also not that professional in my hobbies 
 But turst me that I can add some fun into your life :)
