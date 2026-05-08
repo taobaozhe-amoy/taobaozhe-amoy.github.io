@@ -14,7 +14,7 @@ Wait for gains without pains is not the right way for letting fancy go into your
 
 # I am not doing very well in any of things(at least I think so), But certainly my life is not only with math :)
 Here are some hobbies that are very cheap and Asianly nerdy :
-![maimai]([https://github.com/taobaozhe-amoy/taobaozhe.github.io/blob/main/books/pictures/waiting.png?raw=true](https://github.com/taobaozhe-amoy/Personal-documents/blob/main/maimaibest50Feb25until2025.jpg)?raw=true)
+![maimai](https://github.com/taobaozhe-amoy/Personal-documents/blob/main/maimaibest50Feb25until2025.jpg?raw=true)
 
 
 New learnt board games with UIUC Math PhD freinds :
